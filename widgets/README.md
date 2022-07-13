@@ -23,4 +23,4 @@
 * [Using statistics to create an output data source](statistic-client-side-output)
 * [View layers toggle](view-layers-toggle)
 * [Web component](web-component)
-
+* [Layer Switching - ESRIジャパン作成](layer-switching)
