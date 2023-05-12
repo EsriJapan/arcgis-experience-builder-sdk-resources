@@ -24,3 +24,4 @@
 * [View layers toggle](view-layers-toggle)
 * [Web component](web-component)
 * [Layer Switching - ESRIジャパン作成](layer-switching)
+* [Service Area Select - ESRIジャパン作成](service-area-select)
