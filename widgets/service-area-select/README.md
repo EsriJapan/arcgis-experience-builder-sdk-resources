@@ -1,6 +1,7 @@
 # service-area-select
 
   service-area-select（到達圏検索）ウィジェットは地名検索をした地点を起点に到達圏解析を実施し、その到達圏内含まれる対象のレイヤーのみを抜き出す機能です。
+  本カスタム ウィジェットは[こちら](https://github.com/EsriJapan/arcgis-experience-builder-sdk-resources/raw/master/widgets/service-area-select/service-area-select.zip)からダウンロードできます。
   
 
 ## 動作確認環境
